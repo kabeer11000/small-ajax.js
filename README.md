@@ -17,7 +17,7 @@ smallajax.get(
 
 ### POST Request
 Data will be added to Request Body
-```
+```js
 smallajax.get( 
   /* URL */ '/test.php',
   /* DATA */ {foo: 'bar'},
