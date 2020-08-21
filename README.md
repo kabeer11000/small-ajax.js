@@ -18,7 +18,7 @@ smallajax.get(
 ### POST Request
 Data will be added to Request Body
 ```js
-smallajax.get( 
+smallajax.post( 
   /* URL */ '/test.php',
   /* DATA */ {foo: 'bar'},
   /* Callback */ function() {});
