@@ -5,7 +5,7 @@ Well Small AJAX is just for you!
 
 
 ## Usage
-### GET Request
+#### GET Request
 Data will be added as URL Parameters
 ```js
 smallajax.get( 
@@ -15,7 +15,7 @@ smallajax.get(
 
 ```
 
-### POST Request
+#### POST Request
 Data will be added to Request Body
 ```js
 smallajax.post( 
